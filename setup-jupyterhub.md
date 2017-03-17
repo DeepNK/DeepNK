@@ -20,7 +20,7 @@ There are two things that you may want to change:
 
   You can pick one from the [jupyter's docker hub](https://hub.docker.com/u/jupyter/) or fork one from their [github](https://github.com/jupyter/docker-stacks).
 
-  Currently, we are using [`jupyter/tensorflow-notebook`](https://hub.docker.com/r/jupyter/tensorflow-notebook/).
+  Currently, we are using [`deepnk/notebook`](https://github.com/DeepNK/jupyterhub-deploy-docker/tree/master/deepnk-notebook).
 
 - ### Setup GitHub Authentication
 
