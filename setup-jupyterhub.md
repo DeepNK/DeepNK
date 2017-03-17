@@ -1,6 +1,5 @@
 # DeepNK JupyterHub Setup
 
-------
 
 ## Clone our forked [jupyterhub-deploy-docker](https://github.com/DeepNK/jupyterhub-deploy-docker) project
 
